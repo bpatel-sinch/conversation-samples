@@ -19,7 +19,7 @@ As the Conversation API supports multiple channels, you need to specify which ch
 ## Assumptions
 This demo assumes that you have a fully configured Sinch App on Sinch Dashboard. To know more detail, please visit https://developers.sinch.com/docs/conversation-getting-started to understand more about different specs such as app_id, client_id, client_secret, project_id, project_region. 
 
-## 🧐 What's inside?
+## What's inside?
 
 Here are the top-level files and directories
 
